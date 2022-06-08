@@ -3,7 +3,8 @@
 
 Open source url shortener using MERN stack technologies 
 
-## Live preview(https://tinify-io.herokuapp.com/)
+## Live preview
+(https://tinify-io.herokuapp.com/)
 
 
 
