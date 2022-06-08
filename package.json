@@ -1,0 +1,23 @@
+{
+  "name": "tinify",
+  "version": "1.0.0",
+  "description": "open source url shortener",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server/app.js",
+    "build": "cd client && npm install && npm run build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.5",
+    "nanoid": "^3.3.4",
+    "nodemon": "^2.0.16",
+    "yup": "^0.32.11"
+  }
+}
