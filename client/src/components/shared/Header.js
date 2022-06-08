@@ -56,7 +56,7 @@ function Header() {
             {/* <Link to="about" className="font-bold hover:text-white">
               About
             </Link> */}
-            <a href="https://www.google.com" target={"_blank"} rel="noreferrer">
+            <a href="https://github.com/mohamedk98/tinify-io" target={"_blank"} rel="noreferrer">
               <button className="bg-transparent  rounded-lg border-2 border-black p-2 font-bold hover:bg-black hover:text-white flex items-center">
                 <FaGithub className="mr-2" />
                 Github Repo
@@ -75,7 +75,7 @@ function Header() {
             {/* <Link to="about" className="font-bold ml-10 hover:text-white">
               About
             </Link> */}
-            <a href="https://www.google.com" target={"_blank"} rel="noreferrer">
+            <a href="https://github.com/mohamedk98/tinify-io" target={"_blank"} rel="noreferrer">
               <button className="bg-transparent  rounded-lg border-2 border-black py-2 px-5 font-bold hover:bg-black hover:text-white flex items-center w-1/4 sm:w-32">
                 <FaGithub className="mr-2" />
                 Github
